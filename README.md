@@ -5,6 +5,7 @@ What You Can Do:
 Set Respawn Delay: Choose how many seconds players have before they’re auto-respawned.
 Change Message Color: Pick a color for the notification to match your server style.
 Customize Icon: Add a custom icon link to make the notification unique.
+```
 Example Configuration:
 xml
 Copy
@@ -15,3 +16,4 @@ Edit
   <MessageColor>green</MessageColor>
   <MessageIcon>https://i.imgur.com/JZjQEHV.png</MessageIcon>
 </AutoRespawnConfiguration>
+```
