@@ -1,0 +1,7 @@
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\bin\Debug\AutoRespawn.dll
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\bin\Debug\AutoRespawn.pdb
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\obj\Debug\AutoRespawn.csproj.AssemblyReference.cache
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\obj\Debug\AutoRespawn.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\obj\Debug\AutoResp.F6D288B0.Up2Date
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\obj\Debug\AutoRespawn.dll
+C:\Users\picap\source\repos\AutoRespawn\AutoRespawn\obj\Debug\AutoRespawn.pdb
