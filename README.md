@@ -3,8 +3,8 @@ The AutoRespawn plugin is a simple, easy-to-use tool for Unturned servers. It au
 
 What You Can Do:
 Set Respawn Delay: Choose how many seconds players have before they’re auto-respawned.
-Change Message Color: Pick a color for the notification to match your server style.
-Customize Icon: Add a custom icon link to make the notification unique.
+Change Message Color: Pick a color for the chat messages to fit your server’s theme.
+Customize Icon: Add a custom icon link to personalize the message icon.
 
 # Example Configuration:
 ```
